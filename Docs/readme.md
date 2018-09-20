@@ -1,11 +1,6 @@
----
-typora-copy-images-to: ./images/
-
----
-
 # Introduction
 
-The `Engineering Notebook App` is an application which allows you to create one or more pages of an FTC Engineering Notebook.  It is designed to provide a consistent layout/appearance for each page, allowing students to focus on the content of the notebook instead of the look of it.
+`Logbook` is an engineering process documentation program specifically designed for creating and managing FIRST Tech Challenge engineering notebooks, but can be configured to manage any engineering project that needs to be documented. The program allows for the generation of a printable PDF document containing an organized serialization of the recorded data with a fully configurable layout and format.  
 
 # Using the Application
 
